@@ -16,7 +16,7 @@ This is a simple educational project that demonstrates how clipboard jacking wor
 
 📖 Usage
 
-Open 👉 [Live Demo](https://cygamedev-cyber.github.io/Clickboard/) in your browser
+Open 👉 [Live Demo](https://cygamedev-cyber.github.io/Clipboard/) in your browser
 
 Click Copy Sample BTC Address
 
